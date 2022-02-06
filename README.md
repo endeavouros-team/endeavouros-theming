@@ -4,7 +4,7 @@
 
 *Backgrounds and artwork to install for EndeavourOS theming*
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2021.svg)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)]()
 
 ![EndeavourOS Logo](https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-logo.png "EndeavourOS Logo")
 ---
