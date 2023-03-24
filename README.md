@@ -6,7 +6,7 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()
 
-![EndeavourOS Logo](https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros.png "EndeavourOS Logo")
+![EndeavourOS Logo](https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros.png "EndeavourOS Logo") ![EndeavourOS dark Logo](https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-dark.png "EndeavourOS dark Logo")
 ---
 ![EndeavourOS Icon](https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png "EndeavourOS Icon")
 
