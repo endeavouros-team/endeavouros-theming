@@ -10,6 +10,7 @@
 ---
 ![EndeavourOS Icon](https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png "EndeavourOS Icon")
 
+* Jun 17.2024:  exchanging wallpaper for Endeavour release 
 * 18.10.2023: Galileo Wallpapers in 
 * 24.03.2023: adding some dark variants for logo files (joekamprad)
 * 06.04.2021: review all icon and logo files and make them square. (joekamprad)
