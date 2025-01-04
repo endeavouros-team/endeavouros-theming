@@ -1,3 +1,4 @@
+# unused
 # Endeavouros-theming --> logo icon wallpaper
 
 **Branding for EndeavourOS**
