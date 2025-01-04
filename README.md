@@ -1,4 +1,4 @@
-# unused
+# unused --> new repo:  https://github.com/endeavouros-team/Branding
 # Endeavouros-theming --> logo icon wallpaper
 
 **Branding for EndeavourOS**
